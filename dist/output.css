@@ -2776,6 +2776,7 @@ button {
     height: 100vh;
     z-index: 999;
     background-color: #00000030;
+    overflow-y: scroll;
   }
 }
 
@@ -2824,11 +2825,6 @@ button {
       max-width: 1536px;
     }
   }
-}
-
-.hover\:bg-\[\#ccc\]:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(204 204 204 / var(--tw-bg-opacity, 1));
 }
 
 .hover\:font-bold:hover {

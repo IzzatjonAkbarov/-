@@ -13,6 +13,8 @@
 //   }
 //   console.log(count + 1);
 // }
+
+/*
 let a = "24231323";
 if (a.length % 2 == 0) {
   b = a.length / 2;
@@ -20,5 +22,6 @@ if (a.length % 2 == 0) {
   console.log(sum);
 } else {
   b = Math.floor(a.length / 2);
-  console.log(a[b]);
+console.log(a[b]);
 }
+*/

@@ -57,6 +57,7 @@ button {
     height: 100vh;
     z-index: 999;
     background-color: #00000030;
+    overflow-y: scroll;
   }
 }
 #check:checked ~ .bars {
